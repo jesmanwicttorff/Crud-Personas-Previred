@@ -1,0 +1,4 @@
+body { margin: 0; padding: 16px; background: #f7f7f7; color: #111; }
+input { padding: 6px; width: 100%; box-sizing: border-box; }
+button { padding: 6px 12px; cursor: pointer; }
+label { display:block; font-weight:600; margin-bottom:4px; }
